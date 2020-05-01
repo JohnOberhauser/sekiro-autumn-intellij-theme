@@ -1,0 +1,29 @@
+{
+  "name": "Sekiro-Autumn",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/Sekiro_Autumn.xml",
+  "colors": {
+    "backgroundDark": "#0C0E11",
+    "text": "#E5FFFF",
+    "red": "#93394A",
+    "redDesaturated": "#733447",
+    "tealDark": "#257B76",
+    "tealLight": "#349F97",
+    "tan": "#C78C56",
+    "tanLight": "#F6C191",
+    "peach": "#DD8E91",
+    "peachLight": "#F9A091",
+    "steelBlue": "#52677C",
+    "steelBlueLight": "#9BA9B2",
+    "steelPurple": "#42475A",
+    "steelPurpleLight": "#56566a",
+    "neon": "#80BB00"
+  },
+  "icons": {
+    "ColorPalette": {
+    }
+  },
+  "ui": {
+  }
+}

@@ -1,0 +1,32 @@
+<idea-plugin>
+  <id>com.ober.sekiro.autumn</id>
+  <name>Sekiro Autumn</name>
+  <version>1.0.0</version>
+
+  <description><![CDATA[
+      A dark theme.
+    ]]></description>
+
+<!--  <change-notes><![CDATA[-->
+<!--      Add change notes here.<br>-->
+<!--      <em>most HTML tags may be used</em>-->
+<!--    ]]>-->
+<!--  </change-notes>-->
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="cd7dc880-8ceb-43fd-bd9c-eef716d928ac" path="/Sekiro_Autumn.theme.json"/>
+  </extensions>
+
+<!--  <actions>-->
+<!--    &lt;!&ndash; Add your actions here &ndash;&gt;-->
+<!--  </actions>-->
+
+</idea-plugin>
