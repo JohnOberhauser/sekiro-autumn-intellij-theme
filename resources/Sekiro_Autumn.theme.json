@@ -4,10 +4,14 @@
   "author": "",
   "editorScheme": "/Sekiro_Autumn.xml",
   "colors": {
-    "backgroundDark": "#0C0E11",
+    "backgroundDark2": "#07080a",
+    "backgroundDark": "#0a0c0f",
+    "background": "#0C0E11",
     "backgroundLight": "#121519",
     "backgroundLight2": "#181c23",
-    "foreground": "#E5FFFF",
+    "foregroundLight": "#E5FFFF",
+    "foreground": "#d5dae1",
+    "foregroundDark": "#a5aeb9",
     "tealDark": "#257B76",
     "tealLight": "#349F97",
     "green": "#43706a",
@@ -82,19 +86,19 @@
 
       "errorForeground": "redDesaturated",
 
-      "borderColor": "steelPurple",
+      "borderColor": "backgroundDark2",
       "disabledBorderColor": "steelPurple",
-      "focusColor": "steelPurple",
-      "focusedBorderColor": "steelPurple",
-      "hoverBorderColor": "steelPurple",
-      "pressedBorderColor": "steelPurple",
+      "focusColor": "backgroundLight2",
+      "focusedBorderColor": "backgroundLight2",
+      "hoverBorderColor": "backgroundLight2",
+      "pressedBorderColor": "backgroundLight2",
 
       "separatorColor": "steelPurple",
       "lineSeparatorColor": "steelPurple"
     },
     "Button": {
-      "startBackground": "backgroundDark",
-      "endBackground": "backgroundDark",
+      "startBackground": "background",
+      "endBackground": "background",
       "startBorderColor": "steelPurple",
       "endBorderColor": "steelPurple",
 
@@ -104,13 +108,13 @@
         "endBackground": "redDesaturated",
         "startBorderColor": "redDesaturated",
         "endBorderColor": "redDesaturated",
-        "focusedBorderColor": "backgroundDark"
+        "focusedBorderColor": "background"
       }
     },
 
     "Borders": {
-      "color": "steelPurple",
-      "ContrastBorderColor": "steelPurple"
+      "color": "backgroundDark2",
+      "ContrastBorderColor": "backgroundDark2"
     },
 
     "DefaultTabs": {
@@ -122,11 +126,11 @@
 
     "DragAndDrop": {
       "areaForeground": "foreground",
-      "areaBackground": "backgroundDark",
-      "areaBorderColor": "backgroundDark"
+      "areaBackground": "background",
+      "areaBorderColor": "background"
     },
     "Editor": {
-      "background": "backgroundDark",
+      "background": "background",
       "foreground": "foreground",
       "shortcutForeground": "foreground"
     },
