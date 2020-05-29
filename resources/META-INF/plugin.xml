@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.ober.sekiro.autumn</id>
   <name>Sekiro Autumn</name>
-  <version>1.0.2</version>
+  <version>1.0.5</version>
 
   <description><![CDATA[
       A dark theme.

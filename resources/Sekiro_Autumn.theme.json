@@ -9,6 +9,7 @@
     "background": "#0C0E11",
     "backgroundLight": "#121519",
     "backgroundLight2": "#181c23",
+    "backgroundLight3": "#1f2229",
     "foregroundLight": "#E5FFFF",
     "foreground": "#d5dae1",
     "foregroundDark": "#a5aeb9",
@@ -21,6 +22,7 @@
     "green5": "#292f2f",
     "green6": "#262c2c",
     "green7": "#222828",
+    "brown": "#423836",
     "tan": "#C78C56",
     "tanBright": "#fcd189",
     "tanLight": "#F6C191",
@@ -33,6 +35,8 @@
     "redDesaturated": "#733447",
     "steelBlueLight": "#9BA9B2",
     "steelBlue": "#52677C",
+    "steelBlueDark": "#32475C",
+    "steelBlueDark2": "#1c283C",
     "steelPurpleLight": "#56566a",
     "steelPurple": "#42475A",
     "blue4": "#2e3347",
@@ -143,7 +147,11 @@
       "underlineHeight": 4,
 
       "underlinedTabBackground": "backgroundLight2",
-      "inactiveColoredFileBackground": "redDesaturated"
+      "inactiveColoredFileBackground": "brown"
+    },
+    "SearchMatch": {
+      "startBackground": "steelBlueDark",
+      "endBackground": "steelBlueDark"
     }
   }
 }

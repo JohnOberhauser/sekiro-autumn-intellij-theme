@@ -1,16 +1,16 @@
-<scheme name="Sekiro Autumn Real" version="142" parent_scheme="Darcula">
+<scheme name="Sekiro Autumn" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-19T19:02:16</property>
+    <property name="created">2020-05-28T23:10:39</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.6.3.0</property>
-    <property name="modified">2020-05-19T19:03:22</property>
-    <property name="originalScheme">Sekiro Autumn Real</property>
+    <property name="ideVersion">4.0.0.16</property>
+    <property name="modified">2020-05-28T23:10:47</property>
+    <property name="originalScheme">_@user_Sekiro Autumn</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
     <option name="CARET_COLOR" value="733447" />
-    <option name="CARET_ROW_COLOR" value="2c313c" />
+    <option name="CARET_ROW_COLOR" value="121519" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="dd8e91" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="93394a" />
@@ -45,7 +45,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="606368" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
-    <option name="SELECTION_BACKGROUND" value="404859" />
+    <option name="SELECTION_BACKGROUND" value="181c23" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="4f575f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
@@ -124,7 +124,7 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="e3ffff" />
-        <option name="BACKGROUND" value="353a46" />
+        <option name="BACKGROUND" value="181c23" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
@@ -135,7 +135,7 @@
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="e3ffff" />
-        <option name="BACKGROUND" value="444b5a" />
+        <option name="BACKGROUND" value="181c23" />
       </value>
     </option>
     <option name="BREADCRUMBS_INACTIVE">
@@ -736,8 +736,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f44747" />
-        <option name="ERROR_STRIPE_COLOR" value="f44747" />
+        <option name="EFFECT_COLOR" value="c4645c" />
+        <option name="ERROR_STRIPE_COLOR" value="c4645c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -938,7 +938,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="353940" />
+        <option name="BACKGROUND" value="181c23" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -946,14 +946,14 @@
     </option>
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e3ffff" />
+        <option name="EFFECT_COLOR" value="52677c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="93394a" />
-        <option name="ERROR_STRIPE_COLOR" value="93394a" />
+        <option name="EFFECT_COLOR" value="c78c56" />
+        <option name="ERROR_STRIPE_COLOR" value="c78c56" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1050,12 +1050,12 @@
     </option>
     <option name="JSON.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c78c56" />
+        <option name="FOREGROUND" value="257b76" />
       </value>
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="dd8e91" />
+        <option name="FOREGROUND" value="93394a" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1300,7 +1300,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="515a6b" />
+        <option name="BACKGROUND" value="1f2437" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -1827,8 +1827,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
+        <option name="BACKGROUND" value="1c283c" />
+        <option name="EFFECT_COLOR" value="1c283c" />
       </value>
     </option>
     <option name="SLIM_BAD_CHARACTER">
@@ -1938,9 +1938,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
-        <option name="ERROR_STRIPE_COLOR" value="457dff" />
+        <option name="BACKGROUND" value="1c283c" />
+        <option name="EFFECT_COLOR" value="1c283c" />
+        <option name="ERROR_STRIPE_COLOR" value="1c283c" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -1970,7 +1970,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="98c379" />
+        <option name="EFFECT_COLOR" value="43706a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1987,20 +1987,20 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff8c00" />
-        <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
+        <option name="EFFECT_COLOR" value="c78c56" />
+        <option name="ERROR_STRIPE_COLOR" value="c78c56" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="353940" />
+        <option name="BACKGROUND" value="181c23" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="42557b" />
-        <option name="EFFECT_COLOR" value="457dff" />
+        <option name="BACKGROUND" value="1c283c" />
+        <option name="EFFECT_COLOR" value="1c283c" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -2012,12 +2012,12 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="c78c56" />
+        <option name="FOREGROUND" value="257b76" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="dd8e91" />
+        <option name="FOREGROUND" value="c78c56" />
       </value>
     </option>
     <option name="XML_NS_PREFIX">
@@ -2034,7 +2034,7 @@
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="dd8e91" />
+        <option name="FOREGROUND" value="93394a" />
       </value>
     </option>
     <option name="XPATH.KEYWORD">
@@ -2055,7 +2055,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="dd8e91" />
+        <option name="FOREGROUND" value="93394a" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
