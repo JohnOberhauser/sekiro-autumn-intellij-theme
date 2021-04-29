@@ -1,10 +1,10 @@
-<scheme name="Sekiro Autumn" version="142" parent_scheme="Darcula">
+<scheme name="Varda" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2020-05-28T23:10:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
     <property name="modified">2020-05-28T23:10:47</property>
-    <property name="originalScheme">_@user_Sekiro Autumn</property>
+    <property name="originalScheme">_@user_Varda</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />

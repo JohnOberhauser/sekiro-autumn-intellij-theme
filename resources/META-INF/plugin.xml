@@ -1,7 +1,7 @@
 <idea-plugin>
-  <id>com.ober.sekiro.autumn</id>
-  <name>Sekiro Autumn</name>
-  <version>1.0.5</version>
+  <id>com.ober.varda</id>
+  <name>Varda</name>
+  <version>1.0.0</version>
 
   <description><![CDATA[
       A dark theme.
@@ -16,7 +16,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="cd7dc880-8ceb-43fd-bd9c-eef716d928ac" path="/Sekiro_Autumn.theme.json"/>
+    <themeProvider id="cd7dc880-8ceb-43fd-bd9c-eef716d928ac" path="/Varda.theme.json"/>
   </extensions>
 
 </idea-plugin>
